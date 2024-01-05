@@ -1,0 +1,92 @@
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Helvetica, sans-serif;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    li {
+        list-style: none;
+    }
+
+    .layout-app {
+        background: red;
+        min-width: 100%;
+        min-height: 100vh;
+    }
+
+    .header-app {
+        background: rgb(206, 118, 118);
+        height: 80px;
+    }
+
+    main.content-app {
+        background: rgb(99, 39, 39);
+    }
+
+    .section-app {
+        background: blueviolet;
+        min-height: 30vh;
+        margin: .5em 3em;
+        padding: .5em;
+    }
+
+    .footer-app {
+        background: #000;
+        min-height: 10em;
+    }
+
+    /*  */
+
+    .navigation {
+        background: yellow;
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        padding: 10px;
+        position: fixed;
+        width: 100%;
+        border-radius: 16px;
+    }
+
+    .brand {
+        background: red;
+    }
+
+    .menu {
+        background: green;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .menu-collapse {
+        background: grey;
+        position: absolute;
+        height: 100vh;
+        width: 30%;
+        padding: 1em;
+        visibility: collapse;
+    }
+
+    .hamburger {
+        background: darkcyan;
+    }
+
+    span.burger {
+        background: grey;
+        height: 5px;
+    }
+
+    .social-media {
+        background: crimson;
+        display: inherit;
+    }

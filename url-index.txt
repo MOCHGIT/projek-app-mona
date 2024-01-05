@@ -1,0 +1,42 @@
+kunjungi : jsonplaceholder untuk test API 
+https://jsonplaceholder.typicode.com/albums/1/photos
+https://jsonplaceholder.typicode.com/posts/1/comments
+https://jsonplaceholder.typicode.com/users/1/todos
+https://jsonplaceholder.typicode.com/users/1/todos
+
+
+kid-images =[
+
+"https://images.pexels.com/photos/1416736/pexels-photo-1416736.jpeg?auto=compress&cs=tinysrgb&w=400",
+"https://images.pexels.com/photos/1148998/pexels-photo-1148998.jpeg?auto=compress&cs=tinysrgb&w=600",
+"https://images.pexels.com/photos/1549974/pexels-photo-1549974.jpeg?auto=compress&cs=tinysrgb&w=600",
+"https://images.pexels.com/photos/1427288/pexels-photo-1427288.jpeg?auto=compress&cs=tinysrgb&w=600"
+]
+
+nature-image 
+'https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?auto=compress&cs=tinysrgb&w=600',
+'https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=600',
+'https://images.pexels.com/photos/258149/pexels-photo-258149.jpeg?auto=compress&cs=tinysrgb&w=600',
+'https://images.pexels.com/photos/932638/pexels-photo-932638.jpeg?auto=compress&cs=tinysrgb&w=600',
+https://images.pexels.com/photos/1809644/pexels-photo-1809644.jpeg?auto=compress&cs=tinysrgb&w=600
+https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?auto=compress&cs=tinysrgb&w=600
+https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?auto=compress&cs=tinysrgb&w=600
+https://images.pexels.com/photos/397096/pexels-photo-397096.jpeg?auto=compress&cs=tinysrgb&w=600
+
+
+mountain
+rinjani
+https://images.pexels.com/photos/4552233/pexels-photo-4552233.jpeg?auto=compress&cs=tinysrgb&w=600
+https://images.pexels.com/photos/4552240/pexels-photo-4552240.jpeg?auto=compress&cs=tinysrgb&w=600
+https://images.pexels.com/photos/4552425/pexels-photo-4552425.jpeg?auto=compress&cs=tinysrgb&w=600
+https://images.pexels.com/photos/4870647/pexels-photo-4870647.jpeg?auto=compress&cs=tinysrgb&w=600
+https://images.pexels.com/photos/4552438/pexels-photo-4552438.jpeg?auto=compress&cs=tinysrgb&w=600
+
+semeru
+https://images.pexels.com/photos/9348011/pexels-photo-9348011.jpeg?auto=compress&cs=tinysrgb&w=600
+
+
+
+
+ajax method API example
+https://codepen.io/grandsport/pen/eqzrpQ

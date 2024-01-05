@@ -1,3 +1,10 @@
 *.ai
 *.pdf
 node_modules/
+
+readme.txt
+.ssh
+.vscode
+slbng/'meditation minify.png'
+/tauriApps
+~/html-tagrare.html

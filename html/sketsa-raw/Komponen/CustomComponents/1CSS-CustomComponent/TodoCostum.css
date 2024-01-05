@@ -1,0 +1,125 @@
+.header-task {
+  display: grid;
+  place-items: center;
+  font-family: monospace, helvetica;
+}
+
+.main-task {
+  /* width: 30%; */
+  background: transparent;
+}
+
+.task {
+  background-color: cornflowerblue;
+}
+
+div#task-list {
+  margin: 1em;
+}
+
+/* Form */
+.task-form {
+  display: flex;
+  padding: 0.5em;
+  align-items: center;
+  gap: 0.5em;
+  background: #3c3c3c;
+  padding: 0.5em 0.8em;
+}
+
+select#priority {
+  margin: 8px;
+}
+
+.task {
+  background-color: #6495ed4f;
+  margin-bottom: 1em;
+  padding: 1em;
+  border-radius: 8px;
+  line-height: 1.5em;
+}
+
+.task > p:nth-child(1) {
+  background-color: #9e9e9e57;
+  padding: 0.5em;
+  margin-bottom: 0.3em;
+  border-radius: 8px;
+  color: #181a21;
+  text-transform: capitalize;
+}
+
+.task > p:nth-child(2),
+p:nth-child(3) {
+  /* background-color: red; */
+  font-size: x-small;
+  padding-left: 0.8em;
+}
+
+/* Button */
+button {
+  background-color: #3169dba6;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: x-small;
+}
+
+button.hapus:hover {
+  background: crimson;
+}
+button#add-task {
+  padding: 0.5em 0.8em;
+}
+
+/* Highlight button when hovered */
+button:hover {
+  background-color: #03a9f4;
+}
+
+hr {
+  margin: 1em 0;
+}
+
+/* List items */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* List item */
+ul li {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Modal */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #c0d1f6;
+  overflow: auto;
+}
+
+/* Modal content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* Close button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  cursor: pointer;
+}
